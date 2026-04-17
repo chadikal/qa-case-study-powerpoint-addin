@@ -121,7 +121,7 @@ These scenarios simulate real-world usage where users frequently adjust content 
 ## Full Report
 
 You can find the full detailed report here:
-📄 QA_Report.pdf
+📄 [View Full Report](QA_Report.pdf)
 
 ---
 
