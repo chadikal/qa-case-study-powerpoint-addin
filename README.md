@@ -1,5 +1,9 @@
 # QA Case Study – PowerPoint Add-in Testing
 
+This case study demonstrates my approach to exploratory testing, bug reporting, and usability analysis on a real-world product.
+
+---
+
 ## Overview
 
 This project showcases an exploratory testing effort conducted on a PowerPoint add-in designed to enhance presentation creation through features such as assets management, agenda automation, and translation.
