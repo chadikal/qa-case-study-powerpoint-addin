@@ -47,6 +47,12 @@ I used an exploratory testing approach focused on real user workflows rather tha
 * Simpler tables remain unaffected
 * Likely related to RTL formatting handling
 
+* Before translation:
+![Before](screenshots/translation-before.png)
+
+After translation:
+![After](screenshots/translation-after.png)
+
 ---
 
 ### Functional Issues
